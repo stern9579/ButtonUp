@@ -35,8 +35,7 @@ div.create-account {
     color: white;
     padding: .5% 1%;
     font-size: large;
-    
-
+    box-shadow: 2px 2px 2px  black;
 }
 
 }
