@@ -1,0 +1,42 @@
+.search {
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 2%;
+    padding: .25% 1%;
+    font-size: 150%;
+}
+
+div.search {
+    border: 2px solid #41d3d3;
+    border-radius:25px;
+}
+
+div.plus-button {
+    display: inline-block;
+    margin-top: 1%;
+    margin-left: 2%;
+    background: turquoise;
+    padding: .1% 1%;
+    font-size: 200%;
+    color: white;
+    font-family: serif;
+    font-weight: 800;
+    text-align: center;
+    border: 2px solid turquoise;
+    border-radius: 50%;
+}
+
+div.create-account {
+    display: inline-block;
+    border: 3px solid black;
+    margin-top: 1%;
+    margin-left: 2%;
+    background: #204ecc;
+    color: white;
+    padding: .5% 1%;
+    font-size: large;
+    
+
+}
+
+}
